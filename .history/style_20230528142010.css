@@ -70,7 +70,7 @@ h2{
 @media (max-width: 575.98px) { 
     .carousel-item img {
         width: 100%;
-        height: 100%;
+        height: auto;
     }
 
     .container #ourmenu{
@@ -78,6 +78,6 @@ h2{
     }
 
     .card{
-        margin: 20px auto;
+        margin: 20px;
     }
 }
