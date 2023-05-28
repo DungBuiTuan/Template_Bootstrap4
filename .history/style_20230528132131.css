@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(0, 0, 0, 0.805);
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel {
+    background:#512DA8;
+    width: 100%;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+    width: 100%;
+    object-fit: fill;
+}
+
+h2{
+    color: #fff;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.card-body a{
+    text-align: center;
+    color: #fff;
+}
+ .container {
+    margin-bottom: 30px;
+ }

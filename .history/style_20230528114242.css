@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}

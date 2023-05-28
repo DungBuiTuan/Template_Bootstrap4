@@ -1,0 +1,69 @@
+body{
+    background-color: rgba(0, 0, 0, 0.805);
+}
+
+.navbar-brand{
+    padding-left: 50px;
+}
+
+.navbar-collapse{
+    padding: 0 150px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel {
+    background:#512DA8;
+    width: 100%;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+    width: 100%;
+    object-fit: fill;
+}
+
+h2{
+    color: #fff;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.card-body a{
+    text-align: center;
+    color: #fff;
+    height: 2rem;
+}
+
+.card-body span{
+    font-weight: bold;
+}
+
+.badge {
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 700;
+    background: rgb(255, 238, 0);
+    color: black;
+    padding: 3px 15px;
+    border-radius:5px 0 0 0;
+}
+
+ .container {
+    margin-bottom: 30px;
+ }
+
+.form-row{
+    margin-bottom: 30px;
+}
+

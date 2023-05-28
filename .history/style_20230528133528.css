@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(0, 0, 0, 0.805);
+}
+
+.navbar-collapse{
+    padding: 0 20px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel {
+    background:#512DA8;
+    width: 100%;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+    width: 100%;
+    object-fit: fill;
+}
+
+h2{
+    color: #fff;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.card-body a{
+    text-align: center;
+    color: #fff;
+}
+
+.card-body span{
+    font-weight: bold;
+}
+
+ .container {
+    margin-bottom: 30px;
+ }
+
+.form-row{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(0, 0, 0, 0.805);
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.carousel {
+    width: 100%;
+}
+.carousel-item {
+  height: 300px;
+}
+.carousel-item img {
+    max-height:300px; 
+    overflow:hidden;
+}
+
+h2{
+    color: #fff;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+  
+}
